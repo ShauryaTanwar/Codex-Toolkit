@@ -1,0 +1,10 @@
+I’ll look for the Movie Mood tool and call it once with your query and limit.
+Called `movie_mood.search_movies` once with query “an unlikely friendship on a long journey” and limit `2`.
+
+1. **The Uninhibited** (1965) — `cmu:19081582`  
+   **Plot evidence:** “A young man from Paris moves to a small Spanish village, to stay at a friend's house. He soon becomes involved in a love triangle with his friend and a local woman.”
+
+2. **Reunited** — `cmu:27869109`  
+   **Plot evidence:** “Eight years after sharing a flat together while students at university, six friends reunite.BBC Press Office . "Network TV BBC Week 26: Wednesday 30 June 2010". Press release. Retrieved on 27 June 2010.”
+
+These are the actual returned matches; the excerpts do not clearly establish a long journey.
