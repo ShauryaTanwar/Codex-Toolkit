@@ -14,4 +14,6 @@ Output:
 - Requirement coverage: one bullet per requirement, with PASS, FAIL, or UNVERIFIED; evidence; and whether static or runtime.
 - Findings: severity, requirement violated, location, evidence, reproduction steps (observed or proposed), and impact. If none are supported, say so.
 - Remaining checks: unverified behavior and the smallest useful next check.
-- Verdict: supported completion, incomplete, or insufficient evidence, limited to the reviewed scope.
+- Verdict: FAIL: contradicted evidence or unsupported factual claims.
+UNVERIFIED: insufficient evidence.
+PASS: supported requirements.
